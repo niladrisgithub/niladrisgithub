@@ -1,5 +1,5 @@
  
-### <div align="center">Hello World! I'm Niladri, a new full-stack freelance developer, eager to help solve problems!</div>  
+### <div align="center">Hello World! I'm Niladri, a new full-stack developer, eager to help solve problems!</div>  
   
 
 - 🌱 I’m currently learning GatsbyJS  
