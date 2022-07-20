@@ -2,7 +2,7 @@
 ### <div align="center">Hello World! I'm Niladri, a new full-stack developer, eager to help solve problems!</div>  
   
 
-- 🌱 I’m currently working on recreating a website for a small business, check out my progress on the OneIfByLand repo!
+- 🌱 I’m currently working on enhancing some projects, like the Beer Collector/ 
   
 
 - 🎧 Fun fact: I love discovering new music, especially that I can code to  
